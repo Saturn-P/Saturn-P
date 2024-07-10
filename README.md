@@ -1,6 +1,10 @@
 # 🏄‍♂️ Saturn-P
 
 </a> 
+<a href="https://github.com/your-github-username/your-repo-name">
+    <img alt="GitHub views" title="GitHub views" src="https://custom-icon-badges.demolab.com/github/views/Saturn-P/your-repo-name?color=%2300ADD8&logo=eye&logoColor=white&style=for-the-badge&labelColor=007ec6"/>
+</a>
+
            <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Saturn-P?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
