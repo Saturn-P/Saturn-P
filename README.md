@@ -1,14 +1,6 @@
 # 🏄‍♂️ Saturn-P
 
-</a> 
-<a href="https://github.com/your-github-username/your-repo-name">
-    <img alt="GitHub views" title="GitHub views" src="https://custom-icon-badges.demolab.com/github/views/Saturn-P/your-repo-name?color=%2300ADD8&logo=eye&logoColor=white&style=for-the-badge&labelColor=007ec6"/>
-</a>
 
-         
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Saturn-P?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 ## 🧰 Languages and Tools
 
