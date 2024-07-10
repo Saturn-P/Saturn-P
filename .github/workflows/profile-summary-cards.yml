@@ -1,0 +1,22 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This runs the job daily at midnight UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: JamshedAli18
+          CONFIG: "[{\"repo\":\"Saturn-P\",\"schedule\":\"daily\"}]"
