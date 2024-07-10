@@ -12,6 +12,15 @@
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
 <img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 
-<br />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark" alt="GitHub Daily Summary Card">
+<br /><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Daily Summary Card</title>
+</head>
+<body>
+    <h1>GitHub Daily Summary Card</h1>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saturn-P18&theme=dark" alt="GitHub Daily Summary Card">
+</body>
+</html>
 
