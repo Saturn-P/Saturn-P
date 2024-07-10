@@ -13,5 +13,5 @@
 <img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 
 <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saturn-P&theme=radical"  />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark" alt="GitHub Daily Summary Card">
 
