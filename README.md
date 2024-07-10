@@ -1,5 +1,11 @@
 # 🏄‍♂️ Saturn-P
 
+</a> 
+           <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Saturn-P?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Saturn-P?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 ## 🧰 Languages and Tools
 
@@ -17,7 +23,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Daily Summary Card</title>
 </head>
 <body>
     <h1>GitHub Daily Summary Card</h1>
