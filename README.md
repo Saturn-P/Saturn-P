@@ -25,22 +25,9 @@
 
 
 
+<!--
 ![Saturn-P's Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshalMukte&custom_title=Saturn%20-P's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2E8B57&line=2E8B57&point=2E8B57&area_color=FFFFFF&title_color=2E8B57&area=true)
+-->
 
-<div align="center">    
-<a href="https://github.com/Saturn-p/Saturn-p">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saturn-p&theme=github_dark" style="height: 300px"/></div>
-</a>  
-<div>
 
-</a>
-<a href="https://github.com/Niansuh/Niansuh">
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srajasimman&theme=github_dark&utcOffset=%2B5" width="45%" />
-</a>
 
-<div align="center">    
- </a>
-<a href="https://github.com/Niansuh/Niansuh">
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srajasimman&theme=github_dark&utcOffset=%2B5" width="45%" />
-</a>
-<div>
