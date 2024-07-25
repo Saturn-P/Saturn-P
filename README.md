@@ -23,8 +23,5 @@
 </body>
 </html>
 
-[[![Saturn'Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saturn-p&custom_title=Saturn%20-P'%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-](https://github-readme-activity-graph.vercel.app/graph?username=Saturn-p&custom_title=Saturn%20-P'%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&title_color=00FF00&area=true
-)
-](https://github-readme-activity-graph.vercel.app/graph?username=Saturn-p&custom_title=Saturn%20-P'%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=FFFFFF&title_color=00FF00&area=true
-)
+![Harshal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshalMukte&custom_title=Harshal%20Mukte's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
