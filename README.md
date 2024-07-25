@@ -10,6 +10,7 @@
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
 <img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 
+
 <br />
 <html lang="en">
 <head>
@@ -21,3 +22,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saturn-P&theme=dark" alt="GitHub Daily Summary Card">
 </body>
 </html>
+
+![Saturn'Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saturn-p&custom_title=Saturn%20-P'%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
