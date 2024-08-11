@@ -28,12 +28,4 @@
 <!--
 ![Saturn-P's Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshalMukte&custom_title=Saturn%20-P's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2E8B57&line=2E8B57&point=2E8B57&area_color=FFFFFF&title_color=2E8B57&area=true)
 -->
-# My GitHub Profile
-
-## Saturn-P Activity Graph
-
-![Saturn-P Activity Graph](https://saturn-p.vercel.app/api/graph?username=Saturn-P)
-
-
-
 
