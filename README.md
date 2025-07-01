@@ -65,10 +65,10 @@
 <!-- Project Cards -->
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-  <a href="https://github.com/JamshedAli18/project1" target="_blank">
+  <a href="https://github.com/JamshedAli18/Diabetes-Prediction-using-Machine-Learning" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=project1&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/JamshedAli18/project2" target="_blank">
+  <a href="https://github.com/JamshedAli18/Real-Time-Twitter-Sentiment-Monitor-using-NLP" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=project2&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
