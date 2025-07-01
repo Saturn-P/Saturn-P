@@ -14,6 +14,8 @@
 <div align="center">
 
 💡 &nbsp; <b>Full Stack Developer & Open Source Enthusiast</b>  
+🏢 &nbsp; <b>Currently at:</b> Mehran UET SZAB Campus Khairpur  
+🌍 &nbsp; <b>Followers:</b> 123  
 🎯 &nbsp; <b>Focused on React, Node.js, Cloud, and AI</b>  
 🌱 &nbsp; <b>Currently exploring:</b> TypeScript, Next.js, DevOps  
 🤝 &nbsp; <b>Let’s collaborate! DM me for cool projects.</b>  
@@ -25,7 +27,7 @@
 <!-- Skill Badges Grid -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,express,mongodb,python,git,github,docker,aws,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,docker,aws,vercel,figma" />
 </p>
 
 ---
@@ -62,14 +64,17 @@
 
 ---
 
-<!-- Project Cards -->
+<!-- Project Cards: Select your best repos below -->
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-  <a href="https://github.com/JamshedAli18/Diabetes-Prediction-using-Machine-Learning" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=project1&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/JamshedAli18/your-featured-repo1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=your-featured-repo1&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/JamshedAli18/Real-Time-Twitter-Sentiment-Monitor-using-NLP" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=project2&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/JamshedAli18/your-featured-repo2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=your-featured-repo2&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/JamshedAli18/your-featured-repo3" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=your-featured-repo3&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
@@ -97,3 +102,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JamshedAli18&color=blueviolet"/>
 </p>
+
+<!--
