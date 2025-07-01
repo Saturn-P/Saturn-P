@@ -23,7 +23,11 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,mongodb,mysql,git,github,docker,linux,figma" />
+  <!-- Image1: Custom tech stack icons as per user-uploaded image -->
+  <img src="image1" alt="Tech Stack" width="600"/>
+</p>
+<p align="center">
+  <b>Python, Pandas, Numpy, Scipy, Sklearn, TensorFlow, Jupyter, GitLab</b>
 </p>
 
 ---
