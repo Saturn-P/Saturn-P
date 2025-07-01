@@ -25,7 +25,7 @@
 <!-- Skill Badges Grid -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,docker,aws,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,express,mongodb,python,git,github,docker,aws,vercel,figma" />
 </p>
 
 ---
