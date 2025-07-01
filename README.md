@@ -23,11 +23,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <!-- Image1: Custom tech stack icons as per user-uploaded image -->
-  <img src="image1" alt="Tech Stack" width="600"/>
-</p>
-<p align="center">
-  <b>Python, Pandas, Numpy, Scipy, Sklearn, TensorFlow, Jupyter, GitLab</b>
+  <img src="https://skillicons.dev/icons?i=Python, Pandas, Numpy, Scipy, Sklearn, TensorFlow, Jupyter, GitLab" />
 </p>
 
 ---
@@ -85,3 +81,4 @@
   <img src="https://komarev.com/ghpvc/?username=JamshedAli18&style=flat-square&color=brightgreen">
   <img src="https://img.shields.io/github/followers/JamshedAli18?label=Follow&style=social">
 </p>
+<b></b>
