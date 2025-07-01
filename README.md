@@ -1,4 +1,3 @@
-# Hello, I'm Jamshed 👋
+# My GitHub Contributions
 
-## My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jamshedali18&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Contribution Chart](https://ghchart.rshah.org/219138/JamshedAli18)
