@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1b5e20&height=200&section=header&text=Jamshed%20Ali&fontColor=fff&fontSize=60&fontAlignY=35&animation=twinkling" alt="Jamshed Ali Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=200&section=header&text=Jamshed%20Ali&fontColor=fff&fontSize=60&fontAlignY=35&animation=twinkling" alt="Venom Effect Banner"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=1B5E20&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+DS+Engineer;Welcome+to+my+GitHub+profile!"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1b5e20&height=80&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=0f0f0f&center=true&vCenter=true&width=600&lines=Welcome+To+My+Venom+GitHub!"/>
 </p>
