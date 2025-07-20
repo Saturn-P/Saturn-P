@@ -1,134 +1,101 @@
-<!-- 🌟 AI/ML & NLP Models Expertise | Glassmorphism Card Style Section 🌟 -->
+<!-- 🌟 AI/ML & NLP Models Expertise | Enhanced Royal Card-Style Section 🌟 -->
 
-<h2 align="center">🌸✨ AI/ML & NLP Models Expertise ✨🌸</h2>
+<h2 align="center" style="color:#4169E1; background:#e6f0ff; border-radius:12px; padding:10px 0 10px 0;">👑 AI/ML & NLP Models Expertise 👑</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-00BFAE?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-4169E1?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-0096FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-808000?style=for-the-badge&logo=spacy&logoColor=white"/>
 </p>
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap: 32px; justify-content: center;">
+<div align="center">
 
-  <!-- Machine Learning Card -->
-  <div style="
-    min-width: 320px;
-    max-width: 350px;
-    background: rgba(55, 118, 171, 0.35);
-    border-radius: 24px;
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.20);
-    backdrop-filter: blur(7.5px);
-    -webkit-backdrop-filter: blur(7.5px);
-    border: 1.5px solid rgba(55, 118, 171, 0.35);
-    padding: 24px 22px 18px 22px;
-    margin-bottom: 20px;
-    margin-right: 6px;
-    ">
-    <h3 align="center">🧠 <span style="color:#3776AB">Machine Learning</span></h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Linear%20Regression-3776AB?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Logistic%20Regression-3776AB?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Decision%20Trees-3776AB?style=flat-square"/><br/>
-      <img src="https://img.shields.io/badge/Random%20Forest-3776AB?style=flat-square"/>
-      <img src="https://img.shields.io/badge/KNN-3776AB?style=flat-square"/>
-      <img src="https://img.shields.io/badge/SVM-3776AB?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Naive%20Bayes-3776AB?style=flat-square"/>
-    </p>
-  </div>
+<!-- Card 1: Machine Learning -->
+<div style="background:linear-gradient(135deg,#e6f0ff 60%,#c1f2b0 100%); border-radius:20px; box-shadow:0 4px 24px #4169e144; width:360px; margin:24px 12px; padding:18px 32px; display:inline-block; vertical-align:top;">
+  <h3 align="center" style="color:#4169E1;">🧠 Machine Learning</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Linear%20Regression-4169E1?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Logistic%20Regression-4169E1?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Decision%20Trees-4169E1?style=flat-square&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Random%20Forest-4169E1?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/KNN-4169E1?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SVM-4169E1?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Naive%20Bayes-4169E1?style=flat-square&logoColor=white"/>
+  </p>
+</div>
 
-  <!-- Deep Learning Card -->
-  <div style="
-    min-width: 320px;
-    max-width: 350px;
-    background: rgba(255, 111, 0, 0.29);
-    border-radius: 24px;
-    box-shadow: 0 8px 32px 0 rgba(255, 111, 0, 0.12);
-    backdrop-filter: blur(7.5px);
-    -webkit-backdrop-filter: blur(7.5px);
-    border: 1.5px solid rgba(255, 111, 0, 0.21);
-    padding: 24px 22px 18px 22px;
-    margin-bottom: 20px;
-    margin-right: 6px;
-    ">
-    <h3 align="center">🔬 <span style="color:#ff6f00">Deep Learning</span></h3>
-    <p>
-      <b>CNNs:</b>
-      <img src="https://img.shields.io/badge/LeNet-1976D2?style=flat-square"/>
-      <img src="https://img.shields.io/badge/AlexNet-1976D2?style=flat-square"/>
-      <img src="https://img.shields.io/badge/VGG-1976D2?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ResNet-1976D2?style=flat-square"/>
-      <img src="https://img.shields.io/badge/EfficientNet-1976D2?style=flat-square"/><br>
-      <b>RNNs:</b>
-      <img src="https://img.shields.io/badge/Vanilla%20RNN-FFC107?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LSTM-FFC107?style=flat-square"/>
-      <img src="https://img.shields.io/badge/GRU-FFC107?style=flat-square"/><br>
-      <b>Transformers:</b>
-      <img src="https://img.shields.io/badge/BERT-8e44ad?style=flat-square"/>
-      <img src="https://img.shields.io/badge/GPT-8e44ad?style=flat-square"/>
-      <img src="https://img.shields.io/badge/RoBERTa-8e44ad?style=flat-square"/>
-      <img src="https://img.shields.io/badge/T5-8e44ad?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ALBERT-8e44ad?style=flat-square"/>
-      <img src="https://img.shields.io/badge/DistilBERT-8e44ad?style=flat-square"/>
-      <img src="https://img.shields.io/badge/XLNet-8e44ad?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ELECTRA-8e44ad?style=flat-square"/><br>
-      <b>RAG Models:</b>
-      <img src="https://img.shields.io/badge/RAG-e84118?style=flat-square"/>
-      <img src="https://img.shields.io/badge/FiD-e84118?style=flat-square"/>
-      <img src="https://img.shields.io/badge/DPR-e84118?style=flat-square"/><br>
-      <b>GANs:</b>
-      <img src="https://img.shields.io/badge/DCGAN-00b894?style=flat-square"/>
-      <img src="https://img.shields.io/badge/CycleGAN-00b894?style=flat-square"/>
-      <img src="https://img.shields.io/badge/StyleGAN-00b894?style=flat-square"/><br>
-      <b>Autoencoders:</b>
-      <img src="https://img.shields.io/badge/Vanilla%20AE-00cec9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/VAE-00cec9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Denoising%20AE-00cec9?style=flat-square"/>
-    </p>
+<!-- Card 2: Deep Learning -->
+<div style="background:linear-gradient(135deg,#e6f0ff 60%,#0096FF 100%); border-radius:20px; box-shadow:0 4px 24px #0096ff44; width:360px; margin:24px 12px; padding:18px 32px; display:inline-block; vertical-align:top;">
+  <h3 align="center" style="color:#0096FF;">🔬 Deep Learning</h3>
+  <div align="center">
+    <b style="color:#4169E1;">CNNs:</b><br>
+    <img src="https://img.shields.io/badge/LeNet-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/AlexNet-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/VGG-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/ResNet-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/EfficientNet-0096FF?style=flat-square"/><br>
+    <b style="color:#4169E1;">RNNs:</b><br>
+    <img src="https://img.shields.io/badge/Vanilla%20RNN-4169E1?style=flat-square"/>
+    <img src="https://img.shields.io/badge/LSTM-4169E1?style=flat-square"/>
+    <img src="https://img.shields.io/badge/GRU-4169E1?style=flat-square"/><br>
+    <b style="color:#4169E1;">Transformers:</b><br>
+    <img src="https://img.shields.io/badge/BERT-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/GPT-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/RoBERTa-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/T5-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/ALBERT-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/DistilBERT-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/XLNet-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/ELECTRA-0096FF?style=flat-square"/><br>
+    <b style="color:#4169E1;">RAG Models:</b><br>
+    <img src="https://img.shields.io/badge/RAG-4169E1?style=flat-square"/>
+    <img src="https://img.shields.io/badge/FiD-4169E1?style=flat-square"/>
+    <img src="https://img.shields.io/badge/DPR-4169E1?style=flat-square"/><br>
+    <b style="color:#4169E1;">GANs:</b><br>
+    <img src="https://img.shields.io/badge/DCGAN-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/CycleGAN-0096FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/StyleGAN-0096FF?style=flat-square"/><br>
+    <b style="color:#4169E1;">Autoencoders:</b><br>
+    <img src="https://img.shields.io/badge/Vanilla%20AE-4169E1?style=flat-square"/>
+    <img src="https://img.shields.io/badge/VAE-4169E1?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Denoising%20AE-4169E1?style=flat-square"/>
   </div>
+</div>
 
-  <!-- NLP Card -->
-  <div style="
-    min-width: 320px;
-    max-width: 350px;
-    background: rgba(0, 191, 174, 0.32);
-    border-radius: 24px;
-    box-shadow: 0 8px 32px 0 rgba(0, 191, 174, 0.13);
-    backdrop-filter: blur(7.5px);
-    -webkit-backdrop-filter: blur(7.5px);
-    border: 1.5px solid rgba(0, 191, 174, 0.22);
-    padding: 24px 22px 18px 22px;
-    margin-bottom: 20px;
-    ">
-    <h3 align="center">📖 <span style="color:#00BFAE">NLP-Specific Models</span></h3>
-    <p>
-      <b>Classical NLP:</b>
-      <img src="https://img.shields.io/badge/Naive%20Bayes-0984e3?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Logistic%20Regression-0984e3?style=flat-square"/>
-      <img src="https://img.shields.io/badge/SVM-0984e3?style=flat-square"/><br>
-      <b>Embedding Techniques:</b>
-      <img src="https://img.shields.io/badge/Word2Vec-636e72?style=flat-square"/>
-      <img src="https://img.shields.io/badge/GloVe-636e72?style=flat-square"/>
-      <img src="https://img.shields.io/badge/FastText-636e72?style=flat-square"/><br>
-      <b>Sequence Models:</b>
-      <img src="https://img.shields.io/badge/RNN-00b894?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LSTM-00b894?style=flat-square"/>
-      <img src="https://img.shields.io/badge/GRU-00b894?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Seq2Seq-00b894?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Pointer--Generator-00b894?style=flat-square"/><br>
-      <b>Transformer-Based:</b>
-      <img src="https://img.shields.io/badge/BERT-6c5ce7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/RoBERTa-6c5ce7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/DistilBERT-6c5ce7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ALBERT-6c5ce7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/GPT-6c5ce7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/T5-6c5ce7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/XLNet-6c5ce7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ELECTRA-6c5ce7?style=flat-square"/><br>
-      <b>Retrieval-Augmented:</b>
-      <img src="https://img.shields.io/badge/RAG-e17055?style=flat-square"/>
-      <img src="https://img.shields.io/badge/FiD-e17055?style=flat-square"/>
-      <img src="https://img.shields.io/badge/DPR-e17055?style=flat-square"/>
-    </p>
+<!-- Card 3: NLP-Specific Models -->
+<div style="background:linear-gradient(135deg,#f6fbe7 60%,#b7cc29 100%); border-radius:20px; box-shadow:0 4px 24px #80800044; width:360px; margin:24px 12px; padding:18px 32px; display:inline-block; vertical-align:top;">
+  <h3 align="center" style="color:#808000;">📖 NLP-Specific Models</h3>
+  <div align="center">
+    <b style="color:#808000;">Classical NLP:</b><br>
+    <img src="https://img.shields.io/badge/Naive%20Bayes-808000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Logistic%20Regression-808000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/SVM-808000?style=flat-square"/><br>
+    <b style="color:#808000;">Embedding Techniques:</b><br>
+    <img src="https://img.shields.io/badge/Word2Vec-808000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/GloVe-808000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/FastText-808000?style=flat-square"/><br>
+    <b style="color:#808000;">Sequence Models:</b><br>
+    <img src="https://img.shields.io/badge/RNN-8DB600?style=flat-square"/>
+    <img src="https://img.shields.io/badge/LSTM-8DB600?style=flat-square"/>
+    <img src="https://img.shields.io/badge/GRU-8DB600?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Seq2Seq-8DB600?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Pointer--Generator-8DB600?style=flat-square"/><br>
+    <b style="color:#808000;">Transformer-Based:</b><br>
+    <img src="https://img.shields.io/badge/BERT-b7cc29?style=flat-square"/>
+    <img src="https://img.shields.io/badge/RoBERTa-b7cc29?style=flat-square"/>
+    <img src="https://img.shields.io/badge/DistilBERT-b7cc29?style=flat-square"/>
+    <img src="https://img.shields.io/badge/ALBERT-b7cc29?style=flat-square"/>
+    <img src="https://img.shields.io/badge/GPT-b7cc29?style=flat-square"/>
+    <img src="https://img.shields.io/badge/T5-b7cc29?style=flat-square"/>
+    <img src="https://img.shields.io/badge/XLNet-b7cc29?style=flat-square"/>
+    <img src="https://img.shields.io/badge/ELECTRA-b7cc29?style=flat-square"/><br>
+    <b style="color:#808000;">Retrieval-Augmented:</b><br>
+    <img src="https://img.shields.io/badge/RAG-4169E1?style=flat-square"/>
+    <img src="https://img.shields.io/badge/FiD-4169E1?style=flat-square"/>
+    <img src="https://img.shields.io/badge/DPR-4169E1?style=flat-square"/>
   </div>
+</div>
+
 </div>
 
 <p align="center">
