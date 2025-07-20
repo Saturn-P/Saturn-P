@@ -1,153 +1,99 @@
-<!-- 🌟 AI/ML & NLP Models Expertise | Modern Professional Cards 🌟 -->
+<!-- 🌟 AI/ML & NLP Models Expertise | Professional GitHub-Friendly Cards 🌟 -->
 
-<!-- Section Title -->
-<h2 style="color:#232946; background:#e8eaf6; border-radius:12px; padding:18px 0 10px 22px; margin-bottom:28px;">
-  🚀 AI/ML & NLP Models Expertise
-</h2>
+## 🚀 AI/ML & NLP Models Expertise
 
-<!-- Modern Card Layout (not centered, left-aligned, with unique professional color palette) -->
-<div style="display:flex; flex-wrap:wrap; gap:28px; align-items:stretch;">
+<!-- Machine Learning Card -->
+### <img src="https://img.shields.io/badge/-🧠%20Machine%20Learning-5e60ce?style=for-the-badge&logoColor=white" /> 
 
-  <!-- Machine Learning Card -->
-  <div style="
-    background: linear-gradient(120deg, #f3f6f9 60%, #b0bec5 100%);
-    color: #22223b;
-    border-radius: 18px;
-    box-shadow: 0 6px 24px #90a4ae56;
-    width: 350px;
-    min-height: 390px;
-    margin-bottom: 24px;
-    padding: 24px 26px 18px 26px;
-    border-left: 8px solid #5e60ce;
-    ">
-    <h3 style="color:#5e60ce; margin-top:0; margin-bottom:10px;">🧠 Machine Learning</h3>
-    <div style="font-size:1.08em; margin-bottom:10px;">
-      <strong>Core Models & Algorithms:</strong>
-    </div>
-    <div style="line-height:2;">
-      <span style="background:#5e60ce; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Linear Regression</span>
-      <span style="background:#5e60ce; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Logistic Regression</span>
-      <span style="background:#5e60ce; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Decision Trees</span>
-      <span style="background:#5e60ce; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Random Forest</span>
-      <span style="background:#5e60ce; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">KNN</span>
-      <span style="background:#5e60ce; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">SVM</span>
-      <span style="background:#5e60ce; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Naive Bayes</span>
-    </div>
-  </div>
+[![Linear Regression](https://img.shields.io/badge/Linear%20Regression-5e60ce?style=flat-square&logo=scikit-learn&logoColor=white)]()
+[![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-5e60ce?style=flat-square&logo=scikit-learn&logoColor=white)]()
+[![Decision Trees](https://img.shields.io/badge/Decision%20Trees-5e60ce?style=flat-square&logo=scikit-learn&logoColor=white)]()
+[![Random Forest](https://img.shields.io/badge/Random%20Forest-5e60ce?style=flat-square&logo=scikit-learn&logoColor=white)]()
+[![KNN](https://img.shields.io/badge/KNN-5e60ce?style=flat-square&logo=scikit-learn&logoColor=white)]()
+[![SVM](https://img.shields.io/badge/SVM-5e60ce?style=flat-square&logo=scikit-learn&logoColor=white)]()
+[![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-5e60ce?style=flat-square&logo=scikit-learn&logoColor=white)]()
 
-  <!-- Deep Learning Card -->
-  <div style="
-    background: linear-gradient(120deg, #f8fafc 60%, #c8e6c9 100%);
-    color: #263238;
-    border-radius: 18px;
-    box-shadow: 0 6px 24px #a5d6a756;
-    width: 350px;
-    min-height: 390px;
-    margin-bottom: 24px;
-    padding: 24px 26px 18px 26px;
-    border-left: 8px solid #00b894;
-    ">
-    <h3 style="color:#00b894; margin-top:0; margin-bottom:10px;">🔬 Deep Learning</h3>
-    <div style="font-size:1.08em; margin-bottom:7px;">
-      <strong>CNNs:</strong> 
-      <span style="background:#00b894; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">LeNet</span>
-      <span style="background:#00b894; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">AlexNet</span>
-      <span style="background:#00b894; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">VGG</span>
-      <span style="background:#00b894; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">ResNet</span>
-      <span style="background:#00b894; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">EfficientNet</span>
-    </div>
-    <div style="font-size:1.08em; margin-bottom:7px;">
-      <strong>RNNs:</strong>
-      <span style="background:#43a047; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Vanilla RNN</span>
-      <span style="background:#43a047; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">LSTM</span>
-      <span style="background:#43a047; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">GRU</span>
-    </div>
-    <div style="font-size:1.08em; margin-bottom:7px;">
-      <strong>Transformers:</strong>
-      <span style="background:#0097b2; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">BERT</span>
-      <span style="background:#0097b2; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">GPT</span>
-      <span style="background:#0097b2; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">RoBERTa</span>
-      <span style="background:#0097b2; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">T5</span>
-      <span style="background:#0097b2; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">ALBERT</span>
-      <span style="background:#0097b2; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">DistilBERT</span>
-      <span style="background:#0097b2; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">XLNet</span>
-      <span style="background:#0097b2; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">ELECTRA</span>
-    </div>
-    <div style="font-size:1.08em; margin-bottom:7px;">
-      <strong>RAG Models:</strong>
-      <span style="background:#fb5607; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">RAG</span>
-      <span style="background:#fb5607; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">FiD</span>
-      <span style="background:#fb5607; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">DPR</span>
-    </div>
-    <div style="font-size:1.08em; margin-bottom:7px;">
-      <strong>GANs:</strong>
-      <span style="background:#6a4c93; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">DCGAN</span>
-      <span style="background:#6a4c93; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">CycleGAN</span>
-      <span style="background:#6a4c93; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">StyleGAN</span>
-    </div>
-    <div style="font-size:1.08em;">
-      <strong>Autoencoders:</strong>
-      <span style="background:#ef476f; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Vanilla AE</span>
-      <span style="background:#ef476f; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">VAE</span>
-      <span style="background:#ef476f; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Denoising AE</span>
-    </div>
-  </div>
+---
 
-  <!-- NLP Card -->
-  <div style="
-    background: linear-gradient(120deg, #f3f6f9 60%, #ffe066 100%);
-    color: #22223b;
-    border-radius: 18px;
-    box-shadow: 0 6px 24px #ffe06686;
-    width: 350px;
-    min-height: 390px;
-    margin-bottom: 24px;
-    padding: 24px 26px 18px 26px;
-    border-left: 8px solid #ffb703;
-    ">
-    <h3 style="color:#ffb703; margin-top:0; margin-bottom:10px;">📖 NLP-Specific Models</h3>
-    <div style="font-size:1.08em; margin-bottom:7px;">
-      <strong>Classical NLP:</strong>
-      <span style="background:#ffb703; color:#232946; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Naive Bayes</span>
-      <span style="background:#ffb703; color:#232946; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Logistic Regression</span>
-      <span style="background:#ffb703; color:#232946; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">SVM</span>
-    </div>
-    <div style="font-size:1.08em; margin-bottom:7px;">
-      <strong>Embedding Techniques:</strong>
-      <span style="background:#ffd23f; color:#22223b; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Word2Vec</span>
-      <span style="background:#ffd23f; color:#22223b; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">GloVe</span>
-      <span style="background:#ffd23f; color:#22223b; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">FastText</span>
-    </div>
-    <div style="font-size:1.08em; margin-bottom:7px;">
-      <strong>Sequence Models:</strong>
-      <span style="background:#43aa8b; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">RNN</span>
-      <span style="background:#43aa8b; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">LSTM</span>
-      <span style="background:#43aa8b; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">GRU</span>
-      <span style="background:#43aa8b; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Seq2Seq</span>
-      <span style="background:#43aa8b; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">Pointer-Generator</span>
-    </div>
-    <div style="font-size:1.08em; margin-bottom:7px;">
-      <strong>Transformer-Based:</strong>
-      <span style="background:#4361ee; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">BERT</span>
-      <span style="background:#4361ee; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">RoBERTa</span>
-      <span style="background:#4361ee; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">DistilBERT</span>
-      <span style="background:#4361ee; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">ALBERT</span>
-      <span style="background:#4361ee; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">GPT</span>
-      <span style="background:#4361ee; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">T5</span>
-      <span style="background:#4361ee; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">XLNet</span>
-      <span style="background:#4361ee; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">ELECTRA</span>
-    </div>
-    <div style="font-size:1.08em;">
-      <strong>Retrieval-Augmented:</strong>
-      <span style="background:#3a86ff; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">RAG</span>
-      <span style="background:#3a86ff; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">FiD</span>
-      <span style="background:#3a86ff; color:#fff; border-radius:7px; padding:2px 10px; margin:2px 7px 2px 0;">DPR</span>
-    </div>
-  </div>
+<!-- Deep Learning Card -->
+### <img src="https://img.shields.io/badge/-🔬%20Deep%20Learning-00b894?style=for-the-badge&logoColor=white" /> 
 
-</div>
+**CNNs:**  
+[![LeNet](https://img.shields.io/badge/LeNet-0096FF?style=flat-square&logo=tensorflow&logoColor=white)]()
+[![AlexNet](https://img.shields.io/badge/AlexNet-0096FF?style=flat-square&logo=tensorflow&logoColor=white)]()
+[![VGG](https://img.shields.io/badge/VGG-0096FF?style=flat-square&logo=tensorflow&logoColor=white)]()
+[![ResNet](https://img.shields.io/badge/ResNet-0096FF?style=flat-square&logo=tensorflow&logoColor=white)]()
+[![EfficientNet](https://img.shields.io/badge/EfficientNet-0096FF?style=flat-square&logo=tensorflow&logoColor=white)]()
 
-<!-- Decorative Divider -->
-<div style="margin:36px 0 0 0;">
+**RNNs:**  
+[![Vanilla RNN](https://img.shields.io/badge/Vanilla%20RNN-43a047?style=flat-square&logo=pytorch&logoColor=white)]()
+[![LSTM](https://img.shields.io/badge/LSTM-43a047?style=flat-square&logo=pytorch&logoColor=white)]()
+[![GRU](https://img.shields.io/badge/GRU-43a047?style=flat-square&logo=pytorch&logoColor=white)]()
+
+**Transformers:**  
+[![BERT](https://img.shields.io/badge/BERT-0097b2?style=flat-square&logo=pytorch&logoColor=white)]()
+[![GPT](https://img.shields.io/badge/GPT-0097b2?style=flat-square&logo=pytorch&logoColor=white)]()
+[![RoBERTa](https://img.shields.io/badge/RoBERTa-0097b2?style=flat-square&logo=pytorch&logoColor=white)]()
+[![T5](https://img.shields.io/badge/T5-0097b2?style=flat-square&logo=pytorch&logoColor=white)]()
+[![ALBERT](https://img.shields.io/badge/ALBERT-0097b2?style=flat-square&logo=pytorch&logoColor=white)]()
+[![DistilBERT](https://img.shields.io/badge/DistilBERT-0097b2?style=flat-square&logo=pytorch&logoColor=white)]()
+[![XLNet](https://img.shields.io/badge/XLNet-0097b2?style=flat-square&logo=pytorch&logoColor=white)]()
+[![ELECTRA](https://img.shields.io/badge/ELECTRA-0097b2?style=flat-square&logo=pytorch&logoColor=white)]()
+
+**RAG Models:**  
+[![RAG](https://img.shields.io/badge/RAG-fb5607?style=flat-square&logo=openai&logoColor=white)]()
+[![FiD](https://img.shields.io/badge/FiD-fb5607?style=flat-square&logo=openai&logoColor=white)]()
+[![DPR](https://img.shields.io/badge/DPR-fb5607?style=flat-square&logo=openai&logoColor=white)]()
+
+**GANs:**  
+[![DCGAN](https://img.shields.io/badge/DCGAN-6a4c93?style=flat-square&logo=keras&logoColor=white)]()
+[![CycleGAN](https://img.shields.io/badge/CycleGAN-6a4c93?style=flat-square&logo=keras&logoColor=white)]()
+[![StyleGAN](https://img.shields.io/badge/StyleGAN-6a4c93?style=flat-square&logo=keras&logoColor=white)]()
+
+**Autoencoders:**  
+[![Vanilla AE](https://img.shields.io/badge/Vanilla%20AE-ef476f?style=flat-square&logo=keras&logoColor=white)]()
+[![VAE](https://img.shields.io/badge/VAE-ef476f?style=flat-square&logo=keras&logoColor=white)]()
+[![Denoising AE](https://img.shields.io/badge/Denoising%20AE-ef476f?style=flat-square&logo=keras&logoColor=white)]()
+
+---
+
+<!-- NLP Card -->
+### <img src="https://img.shields.io/badge/-📖%20NLP%20Specific%20Models-ffb703?style=for-the-badge&logoColor=white" />
+
+**Classical NLP:**  
+[![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-ffb703?style=flat-square&logo=spacy&logoColor=white)]()
+[![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-ffb703?style=flat-square&logo=spacy&logoColor=white)]()
+[![SVM](https://img.shields.io/badge/SVM-ffb703?style=flat-square&logo=spacy&logoColor=white)]()
+
+**Embedding Techniques:**  
+[![Word2Vec](https://img.shields.io/badge/Word2Vec-ffd23f?style=flat-square&logo=spacy&logoColor=white)]()
+[![GloVe](https://img.shields.io/badge/GloVe-ffd23f?style=flat-square&logo=spacy&logoColor=white)]()
+[![FastText](https://img.shields.io/badge/FastText-ffd23f?style=flat-square&logo=spacy&logoColor=white)]()
+
+**Sequence Models:**  
+[![RNN](https://img.shields.io/badge/RNN-43aa8b?style=flat-square&logo=spacy&logoColor=white)]()
+[![LSTM](https://img.shields.io/badge/LSTM-43aa8b?style=flat-square&logo=spacy&logoColor=white)]()
+[![GRU](https://img.shields.io/badge/GRU-43aa8b?style=flat-square&logo=spacy&logoColor=white)]()
+[![Seq2Seq](https://img.shields.io/badge/Seq2Seq-43aa8b?style=flat-square&logo=spacy&logoColor=white)]()
+[![Pointer-Generator](https://img.shields.io/badge/Pointer--Generator-43aa8b?style=flat-square&logo=spacy&logoColor=white)]()
+
+**Transformer-Based:**  
+[![BERT](https://img.shields.io/badge/BERT-4361ee?style=flat-square&logo=spacy&logoColor=white)]()
+[![RoBERTa](https://img.shields.io/badge/RoBERTa-4361ee?style=flat-square&logo=spacy&logoColor=white)]()
+[![DistilBERT](https://img.shields.io/badge/DistilBERT-4361ee?style=flat-square&logo=spacy&logoColor=white)]()
+[![ALBERT](https://img.shields.io/badge/ALBERT-4361ee?style=flat-square&logo=spacy&logoColor=white)]()
+[![GPT](https://img.shields.io/badge/GPT-4361ee?style=flat-square&logo=spacy&logoColor=white)]()
+[![T5](https://img.shields.io/badge/T5-4361ee?style=flat-square&logo=spacy&logoColor=white)]()
+[![XLNet](https://img.shields.io/badge/XLNet-4361ee?style=flat-square&logo=spacy&logoColor=white)]()
+[![ELECTRA](https://img.shields.io/badge/ELECTRA-4361ee?style=flat-square&logo=spacy&logoColor=white)]()
+
+**Retrieval-Augmented:**  
+[![RAG](https://img.shields.io/badge/RAG-3a86ff?style=flat-square&logo=openai&logoColor=white)]()
+[![FiD](https://img.shields.io/badge/FiD-3a86ff?style=flat-square&logo=openai&logoColor=white)]()
+[![DPR](https://img.shields.io/badge/DPR-3a86ff?style=flat-square&logo=openai&logoColor=white)]()
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer"/>
-</div>
+</p>
