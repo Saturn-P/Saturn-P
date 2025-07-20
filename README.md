@@ -12,3 +12,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0096FF&height=70&section=header&text=🚀%20Technologies%20Used&fontColor=fff&fontSize=30"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1b5e20&height=100&section=header&text=🌟%20My%20Features%20🌟&fontColor=fff&fontSize=40&fontAlignY=50"/>
+</p>
