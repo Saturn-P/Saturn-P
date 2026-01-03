@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="48" height="48" />
   <img src="https://www.anthropic.com/images/icons/safari-pinned-tab.svg" width="48" height="48" />
